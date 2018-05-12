@@ -1,9 +1,8 @@
 _repo: The-Isle-of-Wight_46556
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46556/46556-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46556-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitton, G. E. (Geraldine Edith)
@@ -14,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9224
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46556#The-Isle-of-Wight
 gutenberg_issued: '2014-08-10'
 gutenberg_type: Text
 identifiers:
